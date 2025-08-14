@@ -110,19 +110,19 @@ leave-management-system/
 
 - # admin_manager
 <img width="1280" height="569" alt="admin_Image"
- src=" https://github.com/chinmayemuthavarapu/Flipkart_project_1/blob/main/admin_manager.jpg?raw=true"/>
+ src="https://github.com/chinmayemuthavarapu/Flipkart_project_1/blob/main/admin_manager.jpg?raw=true"/>
 
 - # Manager_Profile
 <img width="2080" height="568" alt="Image" 
-src=" https://github.com/chinmayemuthavarapu/Flipkart_project_1/blob/main/manager_profile.jpg?raw=true" />
+src="https://github.com/chinmayemuthavarapu/Flipkart_project_1/blob/main/manager_profile.jpg?raw=true" />
 
  - # leave_request
   <img width="1280" height="570" alt="Image" 
-src=" https://github.com/chinmayemuthavarapu/Flipkart_project_1/blob/main/leave_request.jpg?raw=true"/>
+src="https://github.com/chinmayemuthavarapu/Flipkart_project_1/blob/main/leave_request.jpg?raw=true"/>
 
-- # employe_leaveRequest
+- # employe_leave request
     <img width="1280" height="521" alt="Image" 
-src=" https://github.com/chinmayemuthavarapu/Flipkart_project_1/blob/main/employe_leave%20request.jpg?raw=true"/>
+src="https://github.com/chinmayemuthavarapu/Flipkart_project_1/blob/main/employe_leave%20request.jpg?raw=true"/>
     -----
 ## Database Schema
 The system uses the following database tables:
