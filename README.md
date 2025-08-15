@@ -54,10 +54,10 @@ The system creates default users when first initialized:
       Password: admin123
 - Manager:
       Username: manager
-      Password: man123
+      Password: chin123
 - Employee:
       Username: employee
-      Password: emp123
+      Password: sum123
 
 ---
 ## Project Structure
@@ -138,3 +138,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 ---
 ## Contact
+For questions or support,please contact the project maintainer chinmayemuthavarapu@example.
